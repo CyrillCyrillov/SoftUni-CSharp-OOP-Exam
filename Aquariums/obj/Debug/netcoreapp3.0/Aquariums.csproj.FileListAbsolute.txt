@@ -1,0 +1,13 @@
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\_Home\Soft_Uni\OOP_C#\Exam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
